@@ -1,1 +1,2 @@
-# lti-git-01
+# lti-01
+LTI First Git Repo
