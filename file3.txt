@@ -1,4 +1,8 @@
 Hello from file3
 Hello again
 
-Hello all from second one and by Harsha
+Hello all from second one, and by priya, and by Harsha
+
+Hello by priya
+
+Hello from all
